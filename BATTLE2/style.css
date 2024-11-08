@@ -1,0 +1,33 @@
+.underline {
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.red
+{
+    color : red;
+}
+
+.relative {
+    position: relative;
+    height:340px;
+    width: 530px;
+}
+.flex2 {
+    display: flex;
+    flex-direction: column;
+    gap : 1rem;
+    margin-left: 28rem;
+}
+.flex {
+    display : flex;
+}
+.font {
+    font-size: 18px;
+    font-weight: 500;
+    font-family : Arial, Helvetica, sans-serif;
+   
+}
+.oblique {
+    font-style: oblique;
+}
